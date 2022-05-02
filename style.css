@@ -1,0 +1,15 @@
+body {
+   margin: 0;
+}
+.block1 {
+   background: cyan;
+}
+.block2 {
+   background: pink;
+   max-width: 100%;
+   width: 100px;
+   height: 100px;
+}
+.margin {
+   background: violet;
+}
